@@ -1,0 +1,7 @@
+# Tugas 2. MK Pemrograman Game
+
+print("Halo angkatan 2016")
+print("Halo anak teknik informatika")
+#baris ini tidak akan dieksekusi
+print ("Halo anak teknik....") # baris ini dieksekusi
+#baris ini juga merupakan garis komentar
